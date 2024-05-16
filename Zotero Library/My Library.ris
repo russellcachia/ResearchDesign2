@@ -1,0 +1,279 @@
+TY  - BOOK
+TI  - Recent Advances in Computer Vision: Theories and Applications
+T2  - Studies in Computational Intelligence
+A3  - Hassaballah, Mahmoud
+A3  - Hosny, Khalid M.
+CY  - Cham
+DA  - 2019///
+PY  - 2019
+DP  - DOI.org (Crossref)
+VL  - 804
+LA  - en
+PB  - Springer International Publishing
+SN  - 978-3-030-02999-9 978-3-030-03000-1
+ST  - Recent Advances in Computer Vision
+UR  - http://link.springer.com/10.1007/978-3-030-03000-1
+Y2  - 2024/05/14/16:45:05
+L1  - files/2/Hassaballah and Hosny - 2019 - Recent Advances in Computer Vision Theories and A.pdf
+KW  - Non-fruit related
+ER  - 
+
+TY  - JOUR
+TI  - CNN variants for computer vision: History, architecture, application, challenges and future scope
+AU  - Bhatt, Dulari
+AU  - Patel, Chirag
+AU  - Talsania, Hardik
+AU  - Patel, Jigar
+AU  - Vaghela, Rasmika
+AU  - Pandya, Sharnil
+AU  - Modi, Kirit
+AU  - Ghayvat, Hemant
+T2  - Electronics
+DA  - 2021///
+PY  - 2021
+DP  - Google Scholar
+VL  - 10
+IS  - 20
+SP  - 2470
+ST  - CNN variants for computer vision
+UR  - https://www.mdpi.com/2079-9292/10/20/2470
+Y2  - 2024/05/14/16:54:31
+L2  - files/4/2470.html
+KW  - Non-fruit related
+ER  - 
+
+TY  - JOUR
+TI  - Green grape detection and picking-point calculation in a night-time natural environment using a charge-coupled device (CCD) vision sensor with artificial illumination.
+AU  - Xiong JunTao, Xiong JunTao
+AU  - Liu Zhen, Liu Zhen
+AU  - Lin Rui, Lin Rui
+AU  - Bu RongBin, Bu RongBin
+AU  - He ZhiLiang, He ZhiLiang
+AU  - Yang ZhenGang, Yang ZhenGang
+AU  - Liang CuiXiao, Liang CuiXiao
+DA  - 2018///
+PY  - 2018
+DP  - Google Scholar
+UR  - https://www.cabidigitallibrary.org/doi/full/10.5555/20183214067
+Y2  - 2024/05/14/16:55:17
+ER  - 
+
+TY  - JOUR
+TI  - A vision-based method utilizing deep convolutional neural networks for fruit variety classification in uncertainty conditions of retail sales
+AU  - Katarzyna, Rudnik
+AU  - Paweł, Michalski
+T2  - Applied Sciences
+DA  - 2019///
+PY  - 2019
+DP  - Google Scholar
+VL  - 9
+IS  - 19
+SP  - 3971
+UR  - https://www.mdpi.com/2076-3417/9/19/3971
+Y2  - 2024/05/15/16:14:15
+L2  - files/7/3971.html
+ER  - 
+
+TY  - CONF
+TI  - Fruit classification using statistical features in svm classifier
+AU  - Kumari, R. Shantha Selva
+AU  - Gomathy, V.
+C3  - 2018 4th International Conference on Electrical Energy Systems (ICEES)
+DA  - 2018///
+PY  - 2018
+DP  - Google Scholar
+SP  - 526
+EP  - 529
+PB  - IEEE
+UR  - https://ieeexplore.ieee.org/abstract/document/8442331/
+Y2  - 2024/05/15/16:15:05
+ER  - 
+
+TY  - GEN
+TI  - Implementation of Fruits Recognition Classifier using Convolutional Neural Network Algorithm for Observation of Accuracies for Various Hidden Layers
+AU  - Sakib, Shadman
+AU  - Ashrafi, Zahidun
+AU  - Siddique, Md Abu Bakr
+AB  - Fruit recognition using Deep Convolutional Neural Network (CNN) is one of the most promising applications in computer vision. In recent times, deep learning based classifications are making it possible to recognize fruits from images. However, fruit recognition is still a problem for the stacked fruits on weighing scale because of the complexity and similarity. In this paper, a fruit recognition system using CNN is proposed. The proposed method uses deep learning techniques for the classification. We have used Fruits-360 dataset for the evaluation purpose. From the dataset, we have established a dataset which contains 17,823 images from 25 different categories. The images are divided into training and test dataset. Moreover, for the classification accuracies, we have used various combinations of hidden layer and epochs for different cases and made a comparison between them. The overall performance losses of the network for different cases also observed. Finally, we have achieved the best test accuracy of 100% and a training accuracy of 99.79%.
+DA  - 2020/01/25/
+PY  - 2020
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/1904.00783
+Y2  - 2024/05/15/16:15:45
+L1  - files/11/Sakib et al. - 2020 - Implementation of Fruits Recognition Classifier us.pdf
+L2  - files/12/1904.html
+N1  - Comment: 4 Pages, 5 Figures
+KW  - Computer Science - Computer Vision and Pattern Recognition
+KW  - Computer Science - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - Fruit classification using convolutional neural network (CNN)
+AU  - Yang, Myongkyoon
+AU  - Cho, Seong In
+T2  - Precision Agriculture Science and Technology
+DA  - 2021///
+PY  - 2021
+DP  - Google Scholar
+VL  - 3
+IS  - 1
+SP  - 1
+EP  - 8
+ER  - 
+
+TY  - JOUR
+TI  - Classification of fruits using convolutional neural network and transfer learning models
+AU  - Pathak, Rupali
+AU  - Makwana, Hemant
+T2  - Journal of Management Information and Decision Sciences
+DA  - 2021///
+PY  - 2021
+DP  - Google Scholar
+VL  - 24
+SP  - 1
+EP  - 12
+UR  - https://www.researchgate.net/profile/Rupali-Pathak-3/publication/364254116_CLASSIFICATION_OF_FRUITS_USING_CONVOLUTIONAL_NEURAL_NETWORK_AND_TRANSFER_LEARNING_MODELS/links/634124f59cb4fe44f30fc6a8/CLASSIFICATION-OF-FRUITS-USING-CONVOLUTIONAL-NEURAL-NETWORK-AND-TRANSFER-LEARNING-MODELS.pdf
+Y2  - 2024/05/15/16:16:31
+L1  - files/15/Pathak and Makwana - 2021 - Classification of fruits using convolutional neura.pdf
+ER  - 
+
+TY  - CONF
+TI  - Summary on fruit identification methods: A literature review
+AU  - Liu, Fangyuan
+AU  - Snetkov, Leonid
+AU  - Lima, Dimas
+C3  - 2017 3rd International Conference on Economics, Social Science, Arts, Education and Management Engineering (ESSAEME 2017)
+DA  - 2017///
+PY  - 2017
+DP  - Google Scholar
+PB  - Atlantis Press
+ST  - Summary on fruit identification methods
+UR  - https://www.atlantis-press.com/proceedings/essaeme-17/25880982
+Y2  - 2024/05/15/16:17:16
+L1  - files/17/Liu et al. - 2017 - Summary on fruit identification methods A literat.pdf
+ER  - 
+
+TY  - CONF
+TI  - Fruit maturity classification using convolutional neural networks method
+AU  - Anatya, Selly
+AU  - Mawardi, Viny Christanti
+AU  - Hendryli, Janson
+C3  - IOP Conference Series: Materials Science and Engineering
+DA  - 2020///
+PY  - 2020
+DP  - Google Scholar
+VL  - 1007
+SP  - 012149
+PB  - IOP Publishing
+UR  - https://iopscience.iop.org/article/10.1088/1757-899X/1007/1/012149/meta
+Y2  - 2024/05/15/16:18:57
+L1  - files/19/Anatya et al. - 2020 - Fruit maturity classification using convolutional .pdf
+ER  - 
+
+TY  - GEN
+TI  - Implementation of Fruits Recognition Classifier using Convolutional Neural Network Algorithm for Observation of Accuracies for Various Hidden Layers
+AU  - Sakib, Shadman
+AU  - Ashrafi, Zahidun
+AU  - Siddique, Md Abu Bakr
+AB  - Fruit recognition using Deep Convolutional Neural Network (CNN) is one of the most promising applications in computer vision. In recent times, deep learning based classifications are making it possible to recognize fruits from images. However, fruit recognition is still a problem for the stacked fruits on weighing scale because of the complexity and similarity. In this paper, a fruit recognition system using CNN is proposed. The proposed method uses deep learning techniques for the classification. We have used Fruits-360 dataset for the evaluation purpose. From the dataset, we have established a dataset which contains 17,823 images from 25 different categories. The images are divided into training and test dataset. Moreover, for the classification accuracies, we have used various combinations of hidden layer and epochs for different cases and made a comparison between them. The overall performance losses of the network for different cases also observed. Finally, we have achieved the best test accuracy of 100% and a training accuracy of 99.79%.
+DA  - 2020/01/25/
+PY  - 2020
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/1904.00783
+Y2  - 2024/05/15/16:19:10
+L1  - files/22/Sakib et al. - 2020 - Implementation of Fruits Recognition Classifier us.pdf
+L2  - files/23/1904.html
+N1  - Comment: 4 Pages, 5 Figures
+KW  - Computer Science - Computer Vision and Pattern Recognition
+KW  - Computer Science - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - Application of convolutional neural network-based detection methods in fresh fruit production: a comprehensive review
+AU  - Wang, Chenglin
+AU  - Liu, Suchun
+AU  - Wang, Yawei
+AU  - Xiong, Juntao
+AU  - Zhang, Zhaoguo
+AU  - Zhao, Bo
+AU  - Luo, Lufeng
+AU  - Lin, Guichao
+AU  - He, Peng
+T2  - Frontiers in plant science
+DA  - 2022///
+PY  - 2022
+DP  - Google Scholar
+VL  - 13
+SP  - 868745
+ST  - Application of convolutional neural network-based detection methods in fresh fruit production
+UR  - https://www.frontiersin.org/articles/10.3389/fpls.2022.868745/full
+Y2  - 2024/05/15/16:19:28
+L2  - files/25/full.html
+ER  - 
+
+TY  - CONF
+TI  - Fruit Disease Classification using Convolutional Neural Network
+AU  - Pradheep, N.
+AU  - KG, Praveen Raj
+AU  - NM, Purna Chanduru
+AU  - Kalaivani, N.
+AU  - Nandalal, V.
+C3  - 2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC)
+DA  - 2022///
+PY  - 2022
+DP  - Google Scholar
+SP  - 1052
+EP  - 1057
+PB  - IEEE
+UR  - https://ieeexplore.ieee.org/abstract/document/9885440/
+Y2  - 2024/05/15/16:20:00
+ER  - 
+
+TY  - JOUR
+TI  - Fruits classification using convolutional neural network
+AU  - Khatun, Mehenag
+AU  - Ali, Forhad
+AU  - Turzo, Nakib Aman
+AU  - Nine, Julker
+AU  - Sarker, Pritom
+T2  - GRD Journals-Global Research and Development Journal for Engineering
+DA  - 2020///
+PY  - 2020
+DP  - Google Scholar
+VL  - 5
+IS  - 8
+SP  - 1
+EP  - 6
+UR  - https://www.academia.edu/download/64177538/GRDJEV05I080015.pdf
+Y2  - 2024/05/15/16:20:15
+L1  - files/28/Khatun et al. - 2020 - Fruits classification using convolutional neural n.pdf
+ER  - 
+
+TY  - ELEC
+TI  - Difference between Academic and Non Academic Writing.pptx
+T2  - SlideShare
+AB  - Difference between Academic and Non Academic Writing.pptx - Download as a PDF or view online for free
+DA  - 2023/03/14/
+PY  - 2023
+LA  - en
+UR  - https://www.slideshare.net/PandyaMayuri/difference-between-academic-and-non-academic-writingpptx
+Y2  - 2024/05/16/17:49:40
+L2  - files/30/difference-between-academic-and-non-academic-writingpptx.html
+KW  - Acedemic, Non subject related
+KW  - Non-fruit related
+ER  - 
+
+TY  - GEN
+TI  - Fruit Classification using Convolutional Neural Networks (CNN)
+AU  - Cachia Russell, Scerri Daren
+DA  - 2023///
+PY  - 2023
+LA  - English
+Y2  - 2024/05/15/
+L1  - files/32/Cachia Russell - 2023 - Fruit Classification using Convolutional Neural Ne.pdf
+N1  - <div data-schema-version="8"><p>My own personal paper from Research Design 1, as was asked in class to cite.</p>
+</div>
+ER  - 
+
